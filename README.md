@@ -40,10 +40,24 @@ Here are some ideas to get you started:
 <br/>  
 
 
+
+
+## Connect with me  
+
+
+### Email：wzx011017@foxmail.com  
+  
+  
+
+<br/>  
+
+## Paper Reading 
+[My paper reading Repository](https://github.com/wzx442/FederatedLearning_paper)  
+<br/>  
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Machine learning  
 <div align="center">  
@@ -83,20 +97,6 @@ Here are some ideas to get you started:
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-
-
-### Email：wzx011017@foxmail.com  
-  
-  
-
-<br/>  
-
-## Paper Reading 
-[My paper reading Repository](https://github.com/wzx442/FederatedLearning_paper)  
 <br/>  
 
 
