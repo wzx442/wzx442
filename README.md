@@ -95,6 +95,10 @@ Here are some ideas to get you started:
 
 <br/>  
 
+## Paper Reading 
+[My paper reading Repository](https://github.com/wzx442/FederatedLearning_paper)  
+<br/>  
+
 
 ## Github Stats  
 ![wzx442's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzx442&show_icons=true&theme=tokyonight)
