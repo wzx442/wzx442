@@ -2,6 +2,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/wzx442/count.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wzx442&layout=compact)](https://github.com/wzx442/github-readme-stats)
 
+![wzx442's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzx442&show_icons=true&theme=tokyonight)
 
 
 <!--
