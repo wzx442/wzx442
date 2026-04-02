@@ -103,8 +103,8 @@ Here are some ideas to get you started:
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wzx442&show_icons=true&theme=radical&count_private=true" alt="GitHub" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzx442&layout=compact&theme=radical" alt="language" style="width: 48%;"/>
 </div>
 
 <br/>  
