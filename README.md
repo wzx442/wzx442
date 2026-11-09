@@ -102,10 +102,10 @@ Here are some ideas to get you started:
 
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wzx442&show_icons=true&theme=radical&count_private=true" alt="GitHub" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzx442&layout=compact&theme=radical" alt="language" style="width: 48%;"/>
+<div align="center"> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
 </div>
+
 
 <br/>  
 
