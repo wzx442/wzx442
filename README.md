@@ -101,13 +101,12 @@ Here are some ideas to get you started:
 
 
 ## 📊 我的 GitHub 数据
-<!-- 自动生成的 GitHub 统计卡片 -->
-<div align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wzx442&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-</div>
+<p align="center">
+  <a href="https://github.com/wzx442?tab=overview">
+    <img src="./profile/stats.svg" alt="Zhongxiao Wang's GitHub statistics" width="495" />
+  </a>
+</p>
 
-
-<br/>  
 
 
 ## Number of visits
